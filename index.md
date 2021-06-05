@@ -1,7 +1,7 @@
 ## Welcome to my portfolio
 
 hey my self mohit from iit bhu.i am in 1st year in ece a and had ompleted my 1st sem exam with good grades.
-### Markdown
+### cool
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
